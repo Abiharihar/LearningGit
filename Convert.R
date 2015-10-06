@@ -20,3 +20,4 @@ head(preddata)
 
 # save everything to file
 save(segdata,obsdata,distdata,preddata,file="F:/DSM/Chital/chital.RData")
+preddata1 <- preddata

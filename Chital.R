@@ -16,6 +16,7 @@ lon0 <- 78.547395
 lat0 <- 29.76037
 rand.change <- lat0
 rand.change1 <- lon0
+lon1 <- lon0
 
 
 # create obsdata

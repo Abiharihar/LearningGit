@@ -1,0 +1,2 @@
+cat <- read.csv(file.choose())
+cat1 <- cat[!is.na(cat),]
